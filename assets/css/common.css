@@ -7,6 +7,13 @@ h1 {
     font-size: 64px;
 }
 
+.headline {
+    padding: 10px 0px;
+    background: #01793b;
+    width: 100%;
+    text-align: right;
+}
+
 .page-section {
     height: 100vh;
     /* width: 100vw; */
