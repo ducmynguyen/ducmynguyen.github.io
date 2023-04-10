@@ -207,3 +207,14 @@ a:hover {
 .portfolio-social-media i {
     font-size: 30px;
 }
+
+@media screen and (max-width: 768px) {
+    .header-wrap1 {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .header-wrap2 {
+        flex-direction: column;
+        align-items: flex-start !important;
+    }
+}
