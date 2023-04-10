@@ -30,6 +30,10 @@
     justify-content: flex-start;
     align-items: center;
     width: calc(100% - 300px);
+    background: #dbffcf;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
 }
 
 .portfolio-social-media ul {
@@ -40,4 +44,8 @@
 .contat-work {
     color: #d4d45d;
     padding-left: 48px;
+}
+
+.social-link {
+    margin-right: 10px;
 }
