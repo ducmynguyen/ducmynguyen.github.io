@@ -49,3 +49,14 @@
 .social-link {
     margin-right: 10px;
 }
+
+@media screen and (max-width: 768px) {
+    .portfolio {
+        flex-direction: column;
+        align-items: center;
+    }
+    .portfolio-social-media {
+        width: 100%;
+        margin-top: 20px;
+    }
+}
